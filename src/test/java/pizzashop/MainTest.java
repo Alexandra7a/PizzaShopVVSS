@@ -44,7 +44,7 @@ public class MainTest {
     }
     @Test
     void test_CashAndCardExist() throws IOException {
-        File report = new File("./data/reports/raport_"+"11-04-2025.txt");
+        File report = new File("data/reports/raport_" + DateTimeFormatter.ofPattern("dd-MM-yyyy").format(LocalDate.now()) + ".txt");
         report.setWritable(true);
 
         MenuRepository menuRepository = new MenuRepository();
@@ -63,7 +63,7 @@ public class MainTest {
 
     @Test
     void test_OnlyCashExists() throws IOException {
-        File report = new File("./data/reports/raport_"+"11-04-2025.txt");
+        File report = new File("data/reports/raport_" + DateTimeFormatter.ofPattern("dd-MM-yyyy").format(LocalDate.now()) + ".txt");
         report.setWritable(true);
 
         MenuRepository menuRepository = new MenuRepository();
@@ -80,7 +80,8 @@ public class MainTest {
 
     @Test
     void test_OnlyCardExists() throws IOException {
-        File report = new File("./data/reports/raport_"+"11-04-2025.txt");
+
+        File report = new File("data/reports/raport_" + DateTimeFormatter.ofPattern("dd-MM-yyyy").format(LocalDate.now()) + ".txt");
         report.setWritable(true);
 
         MenuRepository menuRepository = new MenuRepository();
@@ -98,7 +99,7 @@ public class MainTest {
 
     @Test
     void test_NoCashNorCard() throws IOException {
-        File report = new File("./data/reports/raport_"+"11-04-2025.txt");
+        File report = new File("data/reports/raport_" + DateTimeFormatter.ofPattern("dd-MM-yyyy").format(LocalDate.now()) + ".txt");
         report.setWritable(true);
 
         MenuRepository menuRepository = new MenuRepository();

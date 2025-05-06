@@ -105,17 +105,17 @@
       <recent name="pizzashop.repository" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ServiceTest">
-    <configuration name="PaymentRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MainTest">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizzashop.repository.*" />
+          <option name="PATTERN" value="pizzashop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pizzashop.repository" />
-      <option name="MAIN_CLASS_NAME" value="pizzashop.repository.PaymentRepositoryTest" />
+      <option name="PACKAGE_NAME" value="pizzashop" />
+      <option name="MAIN_CLASS_NAME" value="pizzashop.MainTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,7 +211,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PaymentRepositoryTest" />
+      <item itemvalue="JUnit.MainTest" />
       <item itemvalue="JUnit.ServiceTest" />
       <item itemvalue="JUnit.ServiceTest.test_addPayment_valid" />
       <item itemvalue="JUnit.PaymentSRE" />
@@ -220,11 +220,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.ServiceTest" />
         <item itemvalue="JUnit.ServiceTest.test_addPayment_valid" />
         <item itemvalue="JUnit.PaymentSRE" />
         <item itemvalue="JUnit.PaymentTest" />
-        <item itemvalue="JUnit.PaymentRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +267,8 @@
       <workItem from="1746528025053" duration="4262000" />
       <workItem from="1746532612429" duration="1181000" />
       <workItem from="1746533810039" duration="411000" />
+      <workItem from="1746534234291" duration="1916000" />
+      <workItem from="1746536452007" duration="264000" />
     </task>
     <servers />
   </component>
