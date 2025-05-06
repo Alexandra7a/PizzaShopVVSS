@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-class PaymentSRE {
+public class PaymentSRE {
 
     private PaymentRepository paymentRepository;
     private MenuRepository menuRepository;
@@ -27,7 +27,7 @@ class PaymentSRE {
     }
 
     @Test
-    void test_add_valid() {
+    public void test_add_valid() {
         payment.setAmount(25.00);
         payment.setType(PaymentType.Card);
         payment.setTableNumber(6);

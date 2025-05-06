@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34b4c8fe-ce1f-41db-8960-cf6802e49e1e" name="Changes" comment="" />
+    <list default="true" id="34b4c8fe-ce1f-41db-8960-cf6802e49e1e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/payments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/payments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pizzashop/service/PaymentSRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pizzashop/service/PaymentSRE.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +106,7 @@
       <recent name="pizzashop.repository" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest">
+  <component name="RunManager" selected="JUnit.ServiceTest">
     <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
@@ -133,16 +137,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PaymentSR_Emock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizzashop.model.*" />
+          <option name="PATTERN" value="pizzashop.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pizzashop.model" />
-      <option name="MAIN_CLASS_NAME" value="pizzashop.model.PaymentTest" />
+      <option name="PACKAGE_NAME" value="pizzashop.service" />
+      <option name="MAIN_CLASS_NAME" value="pizzashop.service.PaymentSR_Emock" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -209,19 +213,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.PaymentSR_Emock" />
       <item itemvalue="JUnit.ServiceTest" />
       <item itemvalue="JUnit.ServiceTest.test_addPayment_valid" />
       <item itemvalue="JUnit.PaymentSRE" />
-      <item itemvalue="JUnit.PaymentTest" />
       <item itemvalue="Maven.PizzaShop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.ServiceTest" />
-        <item itemvalue="JUnit.ServiceTest.test_addPayment_valid" />
         <item itemvalue="JUnit.PaymentSRE" />
-        <item itemvalue="JUnit.PaymentTest" />
+        <item itemvalue="JUnit.PaymentSR_Emock" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.ServiceTest.test_addPayment_valid" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +270,7 @@
       <workItem from="1746533810039" duration="411000" />
       <workItem from="1746534234291" duration="1916000" />
       <workItem from="1746536452007" duration="264000" />
-      <workItem from="1746536727524" duration="345000" />
+      <workItem from="1746536727524" duration="3124000" />
     </task>
     <servers />
   </component>
