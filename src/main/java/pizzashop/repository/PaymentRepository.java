@@ -48,6 +48,9 @@ public class PaymentRepository {
     }
 
     public void add(Payment payment){
+        if(payment.getAmount()<0)
+            throw new IllegalArgumentException("Amount cannot be negative");
+
         paymentList.add(payment);
         writeAll();
     }

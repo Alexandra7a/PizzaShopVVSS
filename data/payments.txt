@@ -280,3 +280,15 @@
 1,Cash,100.0
 1,Cash,100.0
 1,Card,0.0
+6,Card,25.0
+6,Card,25.0
+6,Card,25.0
+6,Card,25.0
+Mock for Payment, hashCode: 1052842393
+Mock for Payment, hashCode: 108982313
+6,Card,25.0
+6,Card,25.0
+6,Card,25.0
+6,Card,25.0
+6,Card,25.0
+6,Card,25.0
