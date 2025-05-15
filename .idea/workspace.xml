@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b4c8fe-ce1f-41db-8960-cf6802e49e1e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,47 +48,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.MainTest.executor": "Run",
-    "JUnit.MainTest.test_CashAndCardExist.executor": "Run",
-    "JUnit.MainTest.test_ExceptionDuringWrite.executor": "Run",
-    "JUnit.MainTest.test_NoCashNorCard.executor": "Run",
-    "JUnit.MainTest.test_OnlyCardExists.executor": "Run",
-    "JUnit.MainTest.test_OnlyCashExists.executor": "Run",
-    "JUnit.PaymentRepositoryTest.executor": "Run",
-    "JUnit.PaymentRepositoryTest.test_add_invalid.executor": "Run",
-    "JUnit.PaymentRepositoryTest.test_add_valid.executor": "Run",
-    "JUnit.PaymentSRE.executor": "Run",
-    "JUnit.PaymentSR_Emock.executor": "Run",
-    "JUnit.PaymentSR_Emock.test_add_invalid.executor": "Run",
-    "JUnit.PaymentSR_Emock.test_add_valid.executor": "Run",
-    "JUnit.PaymentTest.executor": "Run",
-    "JUnit.PizzaServiceTest.executor": "Run",
-    "JUnit.ServiceTest.executor": "Run",
-    "JUnit.ServiceTest.test_addPayment_valid.executor": "Run",
-    "Maven.PizzaShop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Alexandra/Documents/GitHub/PluginLicenta/PluginLicenta",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Alexandra/IdeaProjects/PizzaShop_VVSS/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.test_CashAndCardExist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.test_ExceptionDuringWrite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.test_NoCashNorCard.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.test_OnlyCardExists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.test_OnlyCashExists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentRepositoryTest.test_add_invalid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentRepositoryTest.test_add_valid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentSRE.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentSR_Emock.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentSR_Emock.test_add_invalid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentSR_Emock.test_add_valid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PaymentTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PizzaServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServiceTest.test_addPayment_valid.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.PizzaShop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandra/Documents/GitHub/PluginLicenta/PluginLicenta&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alexandra/IdeaProjects/PizzaShop_VVSS/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -106,7 +107,7 @@
       <recent name="pizzashop.repository" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ServiceTest">
+  <component name="RunManager" selected="JUnit.PaymentSRE">
     <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
@@ -221,8 +222,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ServiceTest" />
         <item itemvalue="JUnit.PaymentSRE" />
+        <item itemvalue="JUnit.ServiceTest" />
         <item itemvalue="JUnit.PaymentSR_Emock" />
         <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.ServiceTest.test_addPayment_valid" />
@@ -276,7 +277,7 @@
       <workItem from="1746969278706" duration="1308000" />
       <workItem from="1746985710098" duration="60000" />
       <workItem from="1746985792765" duration="313000" />
-      <workItem from="1747297942255" duration="5141000" />
+      <workItem from="1747297942255" duration="5373000" />
     </task>
     <servers />
   </component>
