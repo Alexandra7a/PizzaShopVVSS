@@ -25,7 +25,7 @@ public class PaymentSRE {
     }
 
     @Test
-    public void test_add_valid() {
+    public void TestAddValid() {
         payment.setAmount(25.00);
         payment.setType(PaymentType.Card);
         payment.setTableNumber(6);
