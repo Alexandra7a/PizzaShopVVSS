@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b4c8fe-ce1f-41db-8960-cf6802e49e1e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pizzashop/service/PaymentSRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pizzashop/service/PaymentSRE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandra/Documents/GitHub/PluginLicenta/PluginLicenta&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -269,6 +271,12 @@
       <workItem from="1746534234291" duration="1916000" />
       <workItem from="1746536452007" duration="264000" />
       <workItem from="1746536727524" duration="3938000" />
+      <workItem from="1746541306923" duration="445000" />
+      <workItem from="1746968974826" duration="295000" />
+      <workItem from="1746969278706" duration="1308000" />
+      <workItem from="1746985710098" duration="60000" />
+      <workItem from="1746985792765" duration="313000" />
+      <workItem from="1747297942255" duration="1958000" />
     </task>
     <servers />
   </component>

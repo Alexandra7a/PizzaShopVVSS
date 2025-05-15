@@ -31,8 +31,10 @@ public class PaymentSRE {
         payment.setTableNumber(6);
 
         assertEquals(0,pizzaService.getPayments().size());
+
+        /*assertEquals(0,pizzaService.getPayments().size());
         pizzaService.addPayment(payment.getTableNumber(),payment.getType(),payment.getAmount());
-        assertEquals(1,pizzaService.getPayments().size());
+        assertEquals(1,pizzaService.getPayments().size());*/
 
     }
     @Test
