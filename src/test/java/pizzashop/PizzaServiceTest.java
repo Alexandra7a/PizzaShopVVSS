@@ -1,27 +1,14 @@
-package pizzashop.service;
-
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+package pizzashop;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.*;
-import static org.mockito.Mockito.*;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
-import org.junit.jupiter.api.condition.EnabledOnOs;
-import org.junit.jupiter.api.condition.OS;
-import org.mockito.Mockito;
-import org.mockito.stubbing.Answer;
-import pizzashop.model.Payment;
 import pizzashop.model.PaymentType;
 import pizzashop.repository.MenuRepository;
 import pizzashop.repository.PaymentRepository;
-
-import java.util.ArrayList;
-import java.util.List;
+import pizzashop.service.PizzaService;
 
 class PizzaServiceTest {
     //private PizzaService pizzaService=new PizzaService(new MenuRepository(),new PaymentRepository());
