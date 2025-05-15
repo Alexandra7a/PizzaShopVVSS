@@ -123,7 +123,7 @@
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizzashop.service.*" />
+          <option name="PATTERN" value="pizzashop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +138,7 @@
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizzashop.service.*" />
+          <option name="PATTERN" value="pizzashop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +153,12 @@
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizzashop.service.*" />
+          <option name="PATTERN" value="pizzashop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pizzashop.service" />
-      <option name="MAIN_CLASS_NAME" value="pizzashop.service.ServiceTest" />
+      <option name="PACKAGE_NAME" value="pizzashop" />
+      <option name="MAIN_CLASS_NAME" value="pizzashop.ServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,12 +168,12 @@
       <module name="PizzaShop_VVSS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizzashop.service.*" />
+          <option name="PATTERN" value="pizzashop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pizzashop.service" />
-      <option name="MAIN_CLASS_NAME" value="pizzashop.service.ServiceTest" />
+      <option name="PACKAGE_NAME" value="pizzashop" />
+      <option name="MAIN_CLASS_NAME" value="pizzashop.ServiceTest" />
       <option name="METHOD_NAME" value="test_addPayment_valid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -273,7 +273,7 @@
       <workItem from="1746969278706" duration="1308000" />
       <workItem from="1746985710098" duration="60000" />
       <workItem from="1746985792765" duration="313000" />
-      <workItem from="1747297942255" duration="3909000" />
+      <workItem from="1747297942255" duration="4305000" />
     </task>
     <servers />
   </component>
